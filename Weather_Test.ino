@@ -47,8 +47,6 @@ void loop() {
 
       Serial.print("Condition Code: ");
       Serial.println(code);
-
-      // -------- Rain detection logic --------
       if (precip > 0.0) {
         Serial.println("RAIN");
       } else {
