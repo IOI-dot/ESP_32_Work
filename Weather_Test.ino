@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid     = "AUC-WiFi";
-const char* password = "Hank05041321567890*";
+const char* ssid     = "realme C15";
+const char* password = "123456789";
 const String apiKey  = "8b04f782bc364003b8d102854252311";  
 
 const String query = "Cairo";
